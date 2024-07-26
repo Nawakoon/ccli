@@ -1,0 +1,8 @@
+/bin
+.env
+
+# should not push your local script and config, use them privately
+config/script/*
+!config/script/test-fail
+!config/script/test-pass
+config.json

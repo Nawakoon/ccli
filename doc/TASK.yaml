@@ -1,0 +1,30 @@
+done:
+  - name: add command
+    priority: high
+    start_date: 10-07-2024
+    end_date: 21-07-2024
+  - name: delete command
+    priority: medium
+    start_date: 23-07-2024
+    end_date: 25-07-2024
+  - name: help command
+    priority: medium
+    start_date: 25-07-2024
+    end_date: 25-07-2024
+    detail: use cobra default help command
+  - name: doc README.md / LICENSE
+    priority: low
+    start_date: 25-07-2024
+    end_date: 26-07-2024
+  - name: Makefile
+    priority: low
+    start_date: 26-07-2024
+    end_date: 26-07-2024
+  - name: publish
+    priority: low
+    start_date: 26-07-2024
+    end_date: 26-07-2024
+
+inprogress:
+
+plan:
